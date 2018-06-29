@@ -1,0 +1,15 @@
+gamma	0.6
+alpha	5
+kappa	0.005
+smart_mutation 20
+n_iter 1
+n_init_lex 40
+temprature 0.01 
+link_accept_temprature 0.01
+mutation_steps 1
+epsilon 0.001
+memory 1
+keep_maxPMIpercent	0.5
+add_maxPMIpercent	0.5
+
+

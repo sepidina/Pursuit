@@ -1,0 +1,99 @@
+bowl next wheel cup 
+next bowl firstaid cup 
+look bowl 
+cup next to unknown 
+look cup 
+cup next to knife 
+knife next to cup 
+look knife 
+knife firstaid to cup 
+shampoo next to bowl 
+look shampoo 
+shampoo next cup bowl 
+look firstaid 
+firstaid sharpiebox to bowl 
+firstaid next to cup 
+look saucepan 
+saucepan next to shampoo 
+saucepan next to knife 
+wheel next to bowl 
+wheel next to shampoo 
+look wheel 
+gamehandle next to knife 
+gamehandle bowl to cup 
+look gamehandle 
+sharpiebox next barrel bowl 
+sharpiebox next to unknown 
+look sharpiebox 
+look barrel 
+cup next to next 
+barrel next to knife 
+look next gamehandle bowl 
+plate next next 
+look sharpiebox 
+unknown next to cup 
+bowl next sharpiebox cup 
+next bowl 
+cup next to knife 
+knife cup 
+unknown next to knife 
+firstaid next to cup 
+look sharpiebox 
+knife next to bowl 
+shampoo next gamehandle bowl 
+cup shampoo 
+shampoo next to bowl 
+look firstaid 
+firstaid next to bowl 
+firstaid next to cup 
+look saucepan 
+saucepan next to shampoo 
+saucepan next to knife 
+wheel next to bowl 
+wheel next to shampoo 
+look to 
+gamehandle next bowl knife 
+gamehandle wheel to cup 
+look gamehandle 
+unknown knife to next 
+sharpiebox next to bowl 
+look sharpiebox 
+look wheel 
+barrel saucepan wheel next 
+barrel next look look 
+plate wheel to bowl 
+next saucepan barrel 
+look shampoo 
+bowl next look wheel 
+saucepan next to cup 
+firstaid bowl 
+cup next saucepan knife 
+look cup 
+shampoo next to knife 
+knife next to cup 
+look knife 
+knife next to barrel 
+shampoo to to bowl 
+bowl shampoo 
+cup next to barrel 
+look firstaid 
+firstaid next to unknown 
+firstaid next shampoo cup 
+look saucepan 
+saucepan cup to saucepan 
+saucepan knife to unknown 
+cup next bowl bowl 
+wheel next to shampoo 
+look look 
+gamehandle next saucepan knife 
+gamehandle next look cup 
+wheel gamehandle 
+sharpiebox shampoo next cup 
+sharpiebox next to bowl 
+firstaid sharpiebox 
+firstaid barrel 
+barrel next cup cup 
+barrel next to knife 
+plate next to bowl 
+plate knife barrel 
+wheel plate 

@@ -1,0 +1,6 @@
+> setwd("/home/sepideh/repos/Pursuit/CHILDES/")
+Warning message:
+R graphics engine version 12 is not supported by this version of RStudio. The Plots tab will be disabled until a newer version of RStudio is installed. 
+> rm(list=ls())
+> source("PURSUIT_CHILDES.R")
+> simulate()

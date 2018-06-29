@@ -1,0 +1,38 @@
+baby BABY
+bigbird BIRD
+bird BIRD
+books BOOK
+bunnyrabbit BUNNY
+cows COW
+moocows COW
+duckie DUCK
+hand HAND
+kitty KITTY
+kittycats KITTY
+lambie LAMB
+pig PIG
+piggies PIG
+ring RING
+sheep SHEEP
+birdie DUCK
+bear BEAR
+bigbirds BIRD 
+book BOOK
+bunny BUNNY 
+cow COW
+moocow COW
+duck DUCK
+eyes EYES
+hat HAT
+kittycat KITTY
+lamb LAMB
+mirror MIRROR
+piggie PIG
+rattle RATTLE
+rings RING
+bunnies BUNNY
+bird DUCK
+
+
+
+

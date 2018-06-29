@@ -1,0 +1,99 @@
+bowl next to cup 
+bowl firstaid to cup 
+look bowl 
+gamehandle next to knife 
+look gamehandle 
+bowl cup to knife 
+knife next to cup 
+look knife 
+knife next to cup 
+shampoo next to bowl 
+look shampoo 
+shampoo next to bowl 
+look sharpiebox 
+firstaid next to bowl 
+firstaid next to cup 
+look gamehandle 
+saucepan next to shampoo 
+sharpiebox next to knife 
+wheel next wheel bowl 
+wheel next to shampoo 
+look wheel 
+gamehandle next to knife 
+gamehandle next to cup 
+look gamehandle 
+sharpiebox to to cup 
+sharpiebox next to bowl 
+look sharpiebox 
+look barrel 
+barrel wheel to cup 
+barrel next to knife 
+plate next to bowl 
+plate wheel barrel 
+look plate 
+bowl next to cup 
+bowl next to unknown 
+to bowl 
+cup next to knife 
+look cup 
+cup next to look 
+knife gamehandle to cup 
+look knife 
+knife barrel to cup 
+shampoo next shampoo bowl 
+look gamehandle 
+shampoo next to bowl 
+look firstaid 
+firstaid next to bowl 
+firstaid next to cup 
+look saucepan 
+saucepan next to sharpiebox 
+to next to knife 
+wheel next to firstaid 
+cup wheel next shampoo 
+look wheel 
+gamehandle next to knife 
+gamehandle next to cup 
+look gamehandle 
+sharpiebox saucepan to cup 
+sharpiebox next cup bowl 
+look sharpiebox 
+look barrel 
+barrel next to cup 
+barrel next to knife 
+plate next to bowl 
+plate next barrel 
+look plate 
+bowl next to cup 
+bowl next to cup 
+look bowl 
+cup next to knife 
+look cup 
+gamehandle gamehandle to knife 
+knife next to cup 
+look knife 
+knife next to cup 
+shampoo next to bowl 
+look shampoo 
+look next knife bowl 
+look gamehandle 
+firstaid next cup bowl 
+firstaid next to cup 
+look shampoo 
+saucepan next to shampoo 
+saucepan wheel to knife 
+barrel next to bowl 
+wheel next to shampoo 
+look wheel 
+gamehandle next to knife 
+gamehandle next to cup 
+sharpiebox gamehandle 
+sharpiebox next to cup 
+sharpiebox next to bowl 
+look sharpiebox 
+look barrel 
+barrel next to cup 
+barrel next to knife 
+plate next to barrel 
+sharpiebox next barrel 
+look plate 

@@ -1,0 +1,13 @@
+bowl BOWL
+cup CUP
+knife KNIFE
+shampoo SHAMPOO
+firstaid FIRSTAID
+saucepan SAUCEPAN
+wheel WHEEL
+gamehandle GAMEHANDLE
+sharpiebox SHARPIEBOX
+barrel BARREL
+plate PLATE
+
+

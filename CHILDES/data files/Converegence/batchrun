@@ -1,0 +1,8 @@
+#javac basicWL/BasicWL.java		
+
+for value in {1..40}
+do
+java basicWL.BasicWL
+echo $value
+done
+

@@ -1,0 +1,99 @@
+bowl next to cup 
+bowl next to cup 
+look bowl 
+cup next to knife 
+look cup 
+cup next to shampoo 
+knife next to cup 
+look knife 
+knife next to cup 
+shampoo next to bowl 
+look shampoo 
+shampoo next to bowl 
+look firstaid 
+firstaid next next bowl 
+firstaid next to cup 
+look saucepan 
+saucepan next to shampoo 
+saucepan next to knife 
+wheel next to bowl 
+wheel next to shampoo 
+look wheel 
+gamehandle next to knife 
+gamehandle next to cup 
+look gamehandle 
+sharpiebox next to cup 
+sharpiebox next to bowl 
+look sharpiebox 
+look barrel 
+barrel next to cup 
+barrel next sharpiebox knife 
+plate next to bowl 
+plate next barrel 
+look plate 
+bowl next to cup 
+bowl next to cup 
+look bowl 
+cup next to knife 
+look cup 
+cup next to knife 
+knife next to cup 
+look knife 
+knife next to cup 
+shampoo next to bowl 
+look shampoo 
+shampoo next to bowl 
+look firstaid 
+firstaid next to bowl 
+firstaid next to cup 
+sharpiebox saucepan 
+gamehandle next to shampoo 
+saucepan next to knife 
+wheel next to bowl 
+wheel next to shampoo 
+look wheel 
+gamehandle next to knife 
+gamehandle next to cup 
+look gamehandle 
+sharpiebox next to cup 
+sharpiebox unknown to bowl 
+look shampoo 
+look barrel 
+barrel next to cup 
+barrel next to knife 
+to next to bowl 
+plate next barrel 
+look plate 
+bowl next to cup 
+bowl next to cup 
+look bowl 
+cup next to knife 
+look cup 
+cup next to knife 
+knife next to next 
+look knife 
+knife next to cup 
+shampoo next to bowl 
+look shampoo 
+shampoo next to bowl 
+look firstaid 
+firstaid next to bowl 
+firstaid next to cup 
+look wheel 
+saucepan next to shampoo 
+saucepan next to knife 
+wheel next to bowl 
+wheel next to shampoo 
+look wheel 
+gamehandle next to knife 
+gamehandle next to knife 
+look gamehandle 
+sharpiebox next to cup 
+sharpiebox next to bowl 
+look sharpiebox 
+look barrel 
+barrel next to gamehandle 
+barrel next to knife 
+plate next to bowl 
+plate next to 
+look plate 

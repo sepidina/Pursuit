@@ -1,0 +1,99 @@
+bowl next to to 
+firstaid next to cup 
+look bowl 
+cup next to knife 
+look cup 
+knife next to knife 
+knife next to cup 
+look knife 
+knife next to cup 
+barrel next saucepan bowl 
+look shampoo 
+shampoo next to shampoo 
+look firstaid 
+next next to bowl 
+wheel next to cup 
+gamehandle saucepan 
+saucepan next to shampoo 
+saucepan next to knife 
+wheel next gamehandle bowl 
+wheel next to shampoo 
+look wheel 
+gamehandle next to to 
+gamehandle next to cup 
+look gamehandle 
+sharpiebox next to shampoo 
+barrel next look bowl 
+look sharpiebox 
+unknown barrel 
+barrel next to cup 
+barrel next to knife 
+next next to bowl 
+plate saucepan barrel 
+look plate 
+bowl next shampoo cup 
+barrel next to cup 
+look bowl 
+cup next to knife 
+look cup 
+cup next to knife 
+gamehandle next to cup 
+look knife 
+knife next to cup 
+shampoo next to bowl 
+look shampoo 
+shampoo look next bowl 
+look firstaid 
+firstaid barrel to bowl 
+firstaid next to cup 
+look saucepan 
+saucepan next to shampoo 
+saucepan next to knife 
+wheel next to barrel 
+wheel next to next 
+look wheel 
+gamehandle next to knife 
+gamehandle next to cup 
+look gamehandle 
+sharpiebox next shampoo cup 
+sharpiebox next to bowl 
+look sharpiebox 
+look barrel 
+gamehandle next saucepan cup 
+barrel next cup look 
+plate next to bowl 
+plate next barrel 
+look plate 
+next look to cup 
+bowl barrel to cup 
+next bowl 
+cup next to knife 
+look cup 
+cup next to knife 
+knife next to cup 
+look knife 
+knife next bowl cup 
+shampoo next to bowl 
+gamehandle shampoo 
+shampoo next to bowl 
+look firstaid 
+to unknown to bowl 
+firstaid gamehandle to cup 
+firstaid gamehandle 
+saucepan next to shampoo 
+saucepan next next knife 
+wheel next to look 
+wheel to to shampoo 
+look wheel 
+gamehandle next to knife 
+gamehandle next to sharpiebox 
+look gamehandle 
+sharpiebox next to cup 
+sharpiebox sharpiebox cup bowl 
+look sharpiebox 
+look barrel 
+barrel next to cup 
+barrel next to knife 
+plate next shampoo bowl 
+plate next unknown 
+knife plate 

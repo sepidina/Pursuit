@@ -1,0 +1,47 @@
+#javac basicWL/BasicWL.java		
+
+cp data/vision10-speech0/utterance.txt data/
+cp data/vision10-speech0/scene.txt data/
+for value in {1..50}
+do
+java basicWL.BasicWL
+echo $value
+done
+mv results/results.txt results/results-vision10-speech0.txt
+
+cp data/vision10-speech5/utterance.txt data/
+cp data/vision10-speech5/scene.txt data/
+for value in {1..50}
+do
+java basicWL.BasicWL
+echo $value
+done
+mv results/results.txt results/results-vision10-speech5.txt
+
+cp data/vision10-speech10/utterance.txt data/
+cp data/vision10-speech10/scene.txt data/
+for value in {1..50}
+do
+java basicWL.BasicWL
+echo $value
+done
+mv results/results.txt results/results-vision10-speech10.txt
+
+cp data/vision10-speech15/utterance.txt data/
+cp data/vision10-speech15/scene.txt data/
+for value in {1..50}
+do
+java basicWL.BasicWL
+echo $value
+done
+mv results/results.txt results/results-vision10-speech15.txt
+
+cp data/vision10-speech20/utterance.txt data/
+cp data/vision10-speech20/scene.txt data/
+for value in {1..50}
+do
+java basicWL.BasicWL
+echo $value
+done
+mv results/results.txt results/results-vision10-speech20.txt
+

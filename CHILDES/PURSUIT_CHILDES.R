@@ -10,7 +10,7 @@ library(plyr)
 #load data (also loads "gold" evaluation function and "goldlength" global variable)
 #be sure to set your R working directory to the folder which contains the data files!
 
-#source("Training.r")
+source("Training.r")
 #source("Testing.r")
 
 
@@ -37,7 +37,8 @@ values[,]<-0
 #parameter values
 
 gamma<-0.02
-tau<-0.79
+tau<-0.0
+#tau<-0.79
 lambda<-0.001
 
 
@@ -138,7 +139,7 @@ build<-function(){
 simulate<-function(){
 	for(n in 1:length(uttered)){
         analyze(n)
-        print(n)
+        #print(n)
 	}
     build()
     lexeval()
@@ -222,9 +223,11 @@ lexeval<-function(){
 		precision<-correct/(length(lexicon))
 		recall<-correct/goldlength
 		fscore<-2/((1/precision)+(1/recall))
+		cat(fscore,file="outfile.txt",sep="\n",append=TRUE)
 		return(c(precision,recall,fscore))
 	}
 	else{
 		return(c(0,0,0))
 	}
 }
+
